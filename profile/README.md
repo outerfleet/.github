@@ -1,27 +1,29 @@
-# OuterFleet
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="OuterFleet. Building AI that works alongside you." src="assets/banner-light.png">
+</picture>
 
-**Any model. Any harness. One app.**
+<br>
 
-We build [Aurelia](https://heyaurelia.com), a desktop app for working with AI agents.
+OuterFleet is an independent AI studio. We build software where AI is a partner in the work, not a chat box on the side.
 
-Use Aurelia's built-in agent with any model you like, or bring the agents you already pay for.
-Claude Code and Codex run inside Aurelia on your existing subscription, alongside the built-in
-agent, with the same files, tools and memory.
+## Products
 
-### What runs in Aurelia today
-
-- **Aurelia's own agent**, with Anthropic, OpenAI, OpenRouter, xAI, or a local model through Ollama
-- **Claude Code**, using your existing login
-- **Codex**, using your existing login
-
-We're working on adding more harnesses.
-
-### What makes Aurelia different
-
-- **Its own harness.** The agent loop, tools, memory and permissions are ours, so it works with any model, even without a subscription.
-- **Other harnesses inside it.** Claude Code and Codex keep their own loop, and Aurelia gives them a shared workspace.
-- **It remembers.** Come back to a project and Aurelia already knows what you decided and why.
-
-### Platforms
-
-Windows 10 and 11 today. Mac is coming.
+<table>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://heyaurelia.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/aurelia-white.svg">
+          <img alt="Aurelia" src="assets/aurelia-black.svg" width="64">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://heyaurelia.com">Aurelia</a></h3>
+      <b>Any model. Any harness. One app.</b><br>
+      A desktop app for working with AI agents. Use Aurelia's built-in agent with any model, or run Claude Code and Codex inside it on your existing subscription, with the same files, tools and memory.<br><br>
+      <a href="https://heyaurelia.com">heyaurelia.com</a> &nbsp;·&nbsp; Windows &nbsp;·&nbsp; Mac coming soon
+    </td>
+  </tr>
+</table>
