@@ -1,7 +1,7 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="OuterFleet. Building AI that works alongside you." src="assets/banner-light.png">
+  <img alt="Outerfleet. Building AI that works alongside you." src="assets/banner-light.png">
 </picture>
 </p>
 
